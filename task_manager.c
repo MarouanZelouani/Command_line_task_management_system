@@ -1073,7 +1073,7 @@ int main()
                 printf("<-------------------days left in deadline-------------------->\n");
                 days_left_in_deadline (tasks, size);
             }
-            else if (statistics_option = 0)
+            else if (statistics_option == 0)
             {
                 printf("invalid input !!!!!\n");
             }
